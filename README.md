@@ -1,5 +1,5 @@
-<h1 align="center">Greetings Earthlings 👽 My name is David Dyer</h1>
-<h3 align="center">UX Designer & Front-End Developer living in ATL</h3>
+<h1 align="center">Greetings Earthlings 👽 </h1>
+<h3 align="center">I am a UX Designer & Front-End Developer living in ATL</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
