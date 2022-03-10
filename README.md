@@ -30,4 +30,3 @@
 </br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=djdyer&show_icons=true&theme=tokyonight&locale=en" alt="djdyer" /></p>
 </br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=djdyer&theme=highcontrast" alt="djdyer" /></p>
