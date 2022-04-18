@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
-- 🛩️ I’m currently working on [Fly App](fly--app.herokuapp.com)
+- 🛩️ I’m currently working on [Fly App](http://www.fly--app.herokuapp.com)
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [dyer.design](dyer.design)
+- 👨‍💻 All of my projects are available at [dyer.design](https://www.dyer.design)
 
 - 💬 Ask me about **my custom CSS**
 
