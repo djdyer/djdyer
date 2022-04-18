@@ -19,8 +19,9 @@
 <a href="https://instagram.com/djdyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djdyer" height="30" width="40" /></a>
 <a href="https://dribbble.com/djdyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="djdyer" height="30" width="40" /></a>
 <a href="https://www.behance.net/daviddyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="djdyer" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UClUdYcNjTb3ebavxEAeU8Rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucludycnjtb3ebavxeaeu8rg" height="30" width="40" /></a>
 <a href="https://medium.com/@djdyer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@djdyer" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucludycnjtb3ebavxeaeu8rg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucludycnjtb3ebavxeaeu8rg" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
