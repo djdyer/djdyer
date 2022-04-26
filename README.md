@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [dyer.design](https://www.dyer.design)
+- 👨‍💻 All of my projects are available at [dyer.design](http://fly--app.herokuapp.com/)
 
 - 💬 Ask me about **my custom CSS**
 
