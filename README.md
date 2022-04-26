@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
-- 🛩️ I’m currently working on [Fly App](http://flyapp.world)
+- 🛩️ I’m currently working on [Fly App](http://fly--app.herokuapp.com/)
 
 - 🌱 I’m currently learning **React**
 
