@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
-- 🛩️ I’m currently working on [My School](https://myschool-app.herokuapp.com/)
+- 📚 I’m currently working on [My School](https://myschool-app.herokuapp.com/)
 
 - 🌱 I’m currently learning **Angular**
 
