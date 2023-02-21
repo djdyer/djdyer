@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   
- <a href="https://www.upwork.com/freelancers/~01f7fb9a82fc63ef96" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" alt="Upwork" height="30" width="40" /></a> 
+ <a href="https://www.upwork.com/freelancers/~01f7fb9a82fc63ef96" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" alt="Upwork" height="35" width="35" /></a> 
 <a href="https://linkedin.com/in/mrdavidrdyer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdavidrdyer/" height="30" width="40" /></a>
 <a href="https://instagram.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djdyer" height="30" width="40" /></a>
 <a href="https://dribbble.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="djdyer" height="30" width="40" /></a>
