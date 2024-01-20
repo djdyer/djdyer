@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
-- 📚 I’m currently working on [My School](https://myschool-app.herokuapp.com/)
+- 📚 I’m currently working on [Fly App](https://fly-app-3-0.vercel.app/)
 
-- 🌱 I’m currently learning **Angular**
-
-- 👨‍💻 All of my projects are available at [dyer.design](http://dyer.design/)
+- 👨‍💻 Most of my projects are available at [dyer.design](http://dyer.design/)
 
 - 💬 Ask me about **my custom CSS**
 
