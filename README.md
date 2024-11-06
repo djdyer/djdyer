@@ -23,6 +23,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/512/mongodb.png" alt="mongodb" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png" alt="mysql" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Amazon-S3-Logo.svg" alt="Amazon S3" width="40" height="40"/></a>
 <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" alt="angular" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=640&q=75" alt="NextJS" width="40" height="40"/></a>
