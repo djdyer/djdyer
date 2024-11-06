@@ -48,6 +48,6 @@
 <a href="https://www.hubspot.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/H/hubspot-logo-39CE90861B-seeklogo.com.png" alt="Hubspot" width="40" height="40"/></a>
 <a href="https://www.acoustic.com/" target="_blank" rel="noreferrer"><img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo71.png" alt="Acoustic" width="40" height="40"/></a>
 <a href="https://business.adobe.com/products/campaign/adobe-campaign.html" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-campaign-icon-download-in-svg-png-gif-file-formats--logo-suite-new-pack-files-folders-icons-2132654.png?f=webp&w=256" alt="Adobe Campaign Manager" width="40" height="40"/></a>  
-<a href="https://www.braze.com/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/B/braze-logo-29259E72BA-seeklogo.com.png" alt="Braze" width="40" height="40"/></a> 
+<a href="https://www.braze.com/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/6650565f5392d38619a47627_c5323344-d904-51e1-8c99-cad9496658f2.svg" alt="Braze" width="40" height="40"/></a> 
 </p>
 </br> 
