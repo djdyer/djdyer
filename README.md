@@ -31,7 +31,7 @@
 <a href="https://openai.com/index/chatgpt/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/12222/12222560.png" alt="ChatGPT" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="Firebase" width="40" height="40"/></a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" alt="Wordpress" width="40" height="40"/></a>
-<a href="https://localwp.com/" target="_blank" rel="noreferrer"><img src="https://wpapprentice.com/wp-content/uploads/2020/09/local-by-flywheel-logo.png" alt="local" width="40" height="40"/></a> 
+<a href="https://localwp.com/" target="_blank" rel="noreferrer"><img src="https://localwp.com/wp-content/uploads/2024/08/cropped-Local-favicon.png" alt="local" width="40" height="40"/></a> 
 <a href="https://materializecss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/></a>
 <a href="https://tailwindui.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind" width="40" height="40"/></a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" alt="bootstrap" width="40" height="36"/></a>
