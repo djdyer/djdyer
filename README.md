@@ -52,6 +52,6 @@
 <a href="https://www.acoustic.com/" target="_blank" rel="noreferrer"><img src="https://leadsbridge.com/wp-content/themes/leadsbridge/img/integration-lg-logos/logo71.png" alt="Acoustic" width="40" height="40"/></a>
 <a href="https://business.adobe.com/products/campaign/adobe-campaign.html" target="_blank" rel="noreferrer"><img src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-campaign-icon-download-in-svg-png-gif-file-formats--logo-suite-new-pack-files-folders-icons-2132654.png?f=webp&w=256" alt="Adobe Campaign Manager" width="40" height="40"/></a>  
 <a href="https://www.braze.com/" target="_blank" rel="noreferrer"><img src="https://cdn.prod.website-files.com/6640cd28f51f13175e577c05/6650565f5392d38619a47627_c5323344-d904-51e1-8c99-cad9496658f2.svg" alt="Braze" width="40" height="40"/></a> 
-<a href="https://www.mailchimp.com/" target="_blank" rel="noreferrer"><img src="https://static-00.iconduck.com/assets.00/mailchimp-icon-512x512-hr8bvtl6.png" alt="Mailchimp" width="40" height="40"/></a> 
+<a href="https://www.mailchimp.com/" target="_blank" rel="noreferrer"><img src="https://images.icon-icons.com/2407/PNG/512/mailchimp_icon_146054.png" alt="Mailchimp" width="40" height="40"/></a> 
 </p>
 </br> 
