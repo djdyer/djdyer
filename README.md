@@ -35,6 +35,8 @@
     </td>
   </tr>
 </table>
+<br />
+<h3 align="left">Platforms & Tools:</h3>
 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
