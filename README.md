@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djdyer&label=Profile%20views&color=c507b5&style=plastic" alt="djdyer" /> </p>
 
-- ✈️ I’m currently working on [Fly App](https://fly-app-3-0.vercel.app/)
+- ✈️ I’m currently working on [Fly App](https://flyapp.world)
 
 - ⚙️ I do marketing stuff at [Response Media](https://responsemedia.com)
 
