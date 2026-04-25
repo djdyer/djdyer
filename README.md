@@ -5,11 +5,7 @@
 
 - ✈️ Currently launching [Fly App](https://flyapp.world)
 
-- ⚙️ Doing marketing dev at [Response Media](https://responsemedia.com)
-
-- 👨‍💻 Most of my projects are available at [dyer.design](http://dyer.design/)
-
-- 💬 Ask me about **my custom CSS**
+- 👨‍💻 Doing marketing dev at [Response Media](https://responsemedia.com)
 
 - 📫 How to reach me **david@dyer.design**
 
