@@ -12,9 +12,46 @@
 - 📫 How to reach me **david@dyer.design**
 
 <h3 align="left">Connect with me:</h3>
-<div style="display:flex; flex-direction: row;">
-<a href="https://www.upwork.com/freelancers/~01f7fb9a82fc63ef96" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" alt="Upwork" height="35" width="35" /></a><a href="https://linkedin.com/in/mrdavidrdyer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdavidrdyer/" height="30" width="40" /></a><a href="https://instagram.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djdyer" height="30" width="40" /></a><a href="https://dribbble.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="djdyer" height="30" width="40" /></a><a href="https://www.behance.net/daviddyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="djdyer" height="30" width="40" /></a><a href="https://www.youtube.com/channel/UClUdYcNjTb3ebavxEAeU8Rg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucludycnjtb3ebavxeaeu8rg" height="35" width="35" /></a><a href="https://medium.com/@djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@djdyer" height="30" width="40" /></a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://www.upwork.com/freelancers/~01f7fb9a82fc63ef96" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/small/11662555971udurdbf0uniifutgcylp1gud40ihnfb7ciqdmowfhrxifaxga54ydmoj81r2cxpxsdcuchjqxjuf2is7a3vdgwiq78fx3tvgcf4u.png" alt="Upwork" height="35" width="35" /></a>
+    </td>
+    <td>
+      <a href="https://linkedin.com/in/mrdavidrdyer/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrdavidrdyer/" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://instagram.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="djdyer" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://dribbble.com/djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="djdyer" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.behance.net/daviddyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="djdyer" height="30" width="40" /></a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/channel/UClUdYcNjTb3ebavxEAeU8Rg" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucludycnjtb3ebavxeaeu8rg" height="35" width="35" /></a>
+    </td>
+    <td>
+      <a href="https://medium.com/@djdyer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@djdyer" height="30" width="40" /></a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </br> 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display:flex; flex-direction: row;">
