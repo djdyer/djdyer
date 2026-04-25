@@ -76,6 +76,7 @@
   <td>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/></a>
   </td>
+</tr><tr>
   <td>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.hacksoft.io/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F98835%2F1684410508-image-7.png&w=640&q=75" alt="NextJS" width="40" height="40"/></a>
   </td>
@@ -106,6 +107,7 @@
   <td>
     <a href="https://webpack.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" alt="webpack" width="40" height="40"/></a>
   </td>
+</tr><tr>
   <td>
     <a href="https://heroku.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/></a>
   </td>
